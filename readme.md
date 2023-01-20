@@ -15,6 +15,10 @@
   <img align="center" alt="MySQL" height="60" width="auto" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
   <img align="center" alt="ReGex" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png?20140920212741">
   
+  ##### Learning
+  <img align="center" alt="SpringBoot" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="JUnit" height="30" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png">
+  
   ##### Secondary knowledges
   <img align="center" alt="JavaScript" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
