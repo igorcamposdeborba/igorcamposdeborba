@@ -11,7 +11,9 @@
 
 ## Languages
 <div style="display: inline_block">
-  <img align="center" alt="Java" height="60" width="auto" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+  <a href="[https://github.com/igorcamposdeborba/JavaExercises](https://github.com/igorcamposdeborba?tab=repositories&q=&type=&language=java&sort=)">
+    <img align="center" alt="Java" height="60" width="auto" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+  </a>
   <img align="center" alt="MySQL" height="60" width="auto" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
   <img align="center" alt="ReGex" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png?20140920212741">
   
