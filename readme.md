@@ -1,7 +1,6 @@
 ## Hi there, I'm Igor Campos de Borba 👋
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-campos-de-borba/)
-  [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:igor_campos5@hotmail.com)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposdeborba&layout=compact&langs_count=7&theme=nord&hide=c,c%2B%2B"/>
