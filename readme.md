@@ -26,5 +26,3 @@
   <img align="center" alt="CSS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-<br>
-<img src="https://visitcount.itsvg.in/api?id=igorcamposdeborba&label=Profile%20Views&color=0&icon=0&pretty=false" />
