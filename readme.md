@@ -24,6 +24,8 @@
   <img align="center" alt="JavaScript" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kotlin" height="27" width="auto" src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo-1.png">
+  <a href="[https://github.com/igorcamposdeborba?tab=repositories&q=&type=&language=kotlin&sort=](https://github.com/igorcamposdeborba?tab=repositories&q=&type=&language=kotlin&sort=)">
+    <img align="center" alt="Kotlin" height="27" width="auto" src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo-1.png">
+  </a>
 </div>
 <br>
