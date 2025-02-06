@@ -9,7 +9,7 @@
 ## Languages
 <div style="display: inline_block">
   <a href="[https://github.com/igorcamposdeborba/JavaExercises](https://github.com/igorcamposdeborba?tab=repositories&q=&type=&language=java&sort=)">
-    <img align="center" alt="Java" height="60" width="auto" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+    <img align="center" alt="Java" height="60" width="auto" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
   </a>
   <a href="[[https://github.com/igorcamposdeborba/JavaExercises](https://github.com/igorcamposdeborba/SpringBoot_Angular_site_adocaoPet)]">
   <img align="center" alt="SpringBoot" height="45" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> &nbsp
