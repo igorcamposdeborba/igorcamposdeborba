@@ -2,9 +2,7 @@
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-campos-de-borba/)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamposdeborba&layout=compact&langs_count=7&theme=nord&hide=c,c%2B%2B"/>
-</div>
+Portfolio: [www.portfolioigor.vercel.app](https://portfolioigor.vercel.app)
 
 ## Languages
 <div style="display: inline_block">
